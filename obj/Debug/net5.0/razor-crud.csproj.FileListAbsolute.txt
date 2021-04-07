@@ -166,3 +166,8 @@
 /home/peter/Documents/Projects/dotnet/razor-crud/bin/Debug/net5.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.pdb
 /home/peter/Documents/Projects/dotnet/razor-crud/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Runtime.Caching.dll
 /home/peter/Documents/Projects/dotnet/razor-crud/bin/Debug/net5.0/runtimes/win/lib/netstandard2.0/System.Security.Cryptography.ProtectedData.dll
+/home/peter/Documents/Projects/dotnet/razor-crud/obj/Debug/net5.0/Razor/Pages/Movies/Create.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/razor-crud/obj/Debug/net5.0/Razor/Pages/Movies/Delete.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/razor-crud/obj/Debug/net5.0/Razor/Pages/Movies/Details.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/razor-crud/obj/Debug/net5.0/Razor/Pages/Movies/Edit.cshtml.g.cs
+/home/peter/Documents/Projects/dotnet/razor-crud/obj/Debug/net5.0/Razor/Pages/Movies/Index.cshtml.g.cs
